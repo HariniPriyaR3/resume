@@ -4,7 +4,7 @@ This project was created to showcase my resume online.This repository contains m
 
 🔗 Live Website
 You can view my resume here:  
-👉 https://USERNAME.github.io/Resume/  
+👉  https://harinipriyar3.github.io/resume/
 
 Thank you for viewing my resume🙂
 
