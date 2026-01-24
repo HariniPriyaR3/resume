@@ -2,11 +2,14 @@ Resume Website
 
 This project was created to showcase my resume online.This repository contains my personal resume built using HTML and CSS.
 
+<p align ="centre">
+< img src= "![page](https://github.com/user-attachments/assets/fae2f99b-1896-4739-9f02-cb3d4b828841)" >
+</p>
+
 🔗 Live Website
 You can view my resume here:  
 👉  https://harinipriyar3.github.io/resume/
 
 Thank you for viewing my resume🙂
-
 
 
