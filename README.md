@@ -9,7 +9,7 @@ You can view my resume here:
 👉  https://harinipriyar3.github.io/resume/
 
 Technologies Used : HTML ,CSS
-index.html - main resume page
+-> index.html - main resume page
 
 Thank you for viewing my resume🙂
 
